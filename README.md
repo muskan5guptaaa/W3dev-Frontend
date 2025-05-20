@@ -22,9 +22,9 @@ This is the frontend of the AI-Powered Task Manager app. It allows users to gene
 - Framer Motion
 - REST API integration
 
-Env variables:
-NEXT_PUBLIC_API_BASE_URL=local_host_domain/api
-NEXT_PUBLIC_API_KEY=firebase_api_key
-NEXT_PUBLIC_AUTH_DOMAIN=firebase_auth_domain
-NEXT_PUBLIC_PROJECT_ID=firebase_project_id
-NEXT_PUBLIC_APP_ID=firebase_app_id
+## Env variables:
+- NEXT_PUBLIC_API_BASE_URL=local_host_domain/api
+- NEXT_PUBLIC_API_KEY=firebase_api_key
+- NEXT_PUBLIC_AUTH_DOMAIN=firebase_auth_domain
+- NEXT_PUBLIC_PROJECT_ID=firebase_project_id
+- NEXT_PUBLIC_APP_ID=firebase_app_id
